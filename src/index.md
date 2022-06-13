@@ -263,7 +263,7 @@ início                // início do bloco de instruções
   escreva X           // saída
 fim                   // fim do bloco de instruções
 ```
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 #include <stdio.h>
@@ -283,7 +283,7 @@ int main(void) {
 
 ```js
 TODO
-```
+``` -->
 
 O código escrito entre os comandos **início** e **fim** é apresentado com um deslocamento (indentação) de duas posições à direita.
 O uso de *indentação* é um estilo de escrita que deve sempre ser respeitado, pois visa facilitar a leitura do código dos vários blocos de ação que um programa de computador possa ter.
@@ -366,7 +366,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 #include <stdio.h>
@@ -385,7 +385,7 @@ int main(void) {
 
 ```js
 TODO
-```
+``` -->
 
 ## [Tomada de Decisão Composta](#alg-dec-composta)
 
@@ -443,7 +443,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 TODO
@@ -453,7 +453,7 @@ TODO
 
 ```js
 TODO
-```
+``` -->
 
 ## [Tomada de Decisão por Seleção](#alg-dec-selecao)
 
@@ -546,7 +546,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 TODO
@@ -556,7 +556,7 @@ TODO
 
 ```js
 TODO
-```
+``` -->
 
 A instrução **caso/seja ... faça/senão/fim_caso** é útil apenas nos casos em que há tomadas de decisão sequenciais ou encadeadas utilizando as ações previstas com o operador relacional "igual a". Outro detalhe importante é que o comando **senão**, na estrutura de tomada de decisão por seleção, é opcional. Ele pode ser omitido quando não se desejar deixar definida uma ação quando as condições gerais não forem satisfeitas.
 
@@ -626,7 +626,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 TODO
@@ -636,7 +636,7 @@ TODO
 
 ```js
 TODO
-```
+``` -->
 
 ## [Operador Lógico OU (Disjunção Inclusiva)](#alg-dec-ou)
 
@@ -700,7 +700,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 TODO
@@ -710,7 +710,7 @@ TODO
 
 ```js
 TODO
-```
+``` -->
 
 ## [Operador Lógico XOU (Dinjunção Exclusiva)](#alg-dec-xou)
 
@@ -778,7 +778,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 TODO
@@ -788,7 +788,7 @@ TODO
 
 ```js
 TODO
-```
+``` -->
 
 ## [Operador Lógico NAO (Negação)](#alg-dec-nao)
 
@@ -851,7 +851,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 TODO
@@ -861,7 +861,7 @@ TODO
 
 ```js
 TODO
-```
+``` -->
 
 ## [Tomada de Decisão Operador Lógico de Negação (NÃO)](#alg-op-nao)
 
@@ -960,7 +960,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 TODO
@@ -970,7 +970,7 @@ TODO
 
 ```js
 TODO
-```
+``` -->
 
 ## [Laço Pré-Teste com fluxo falso (Iterativo)](#alg-lac-pre-fit)
 
@@ -1024,7 +1024,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 TODO
@@ -1034,7 +1034,7 @@ TODO
 
 ```js
 TODO
-```
+``` -->
 
 ## [Laço Pós-Teste com fluxo falso (Iterativo)](#alg-lac-pos-fit)
 
@@ -1088,7 +1088,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 TODO
@@ -1098,7 +1098,7 @@ TODO
 
 ```js
 TODO
-```
+``` -->
 
 ## [Laço Pós-Teste com fluxo verdadeiro (Iterativo)](#alg-lac-pos-vit)
 
@@ -1152,7 +1152,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 TODO
@@ -1162,7 +1162,7 @@ TODO
 
 ```js
 TODO
-```
+``` -->
 
 ## [Laço Seletivo (Iterativo)](#alg-lac-seletivo)
 
@@ -1219,7 +1219,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 TODO
@@ -1229,7 +1229,7 @@ TODO
 
 ```js
 TODO
-```
+``` -->
 
 ## [Laço Puramente Iterativo](#alg-lac-piterativo)
 
@@ -1278,7 +1278,7 @@ início
 fim
 ```
 
-#### Linguagem C
+<!-- #### Linguagem C
 
 ```c
 TODO
@@ -1288,4 +1288,4 @@ TODO
 
 ```js
 TODO
-```
+``` -->

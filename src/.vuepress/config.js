@@ -41,10 +41,10 @@ module.exports = {
         text: 'Referências',
         link: '/referencias/',
       },
-      {
-        text: 'Contato',
-        link: '/contato/'
-      },
+      // {
+      //   text: 'Contato',
+      //   link: '/contato/'
+      // },
       // {
       //   text: 'VuePress',
       //   link: 'https://v1.vuepress.vuejs.org'
